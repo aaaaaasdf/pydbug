@@ -3,10 +3,10 @@
 **PyDBug** is a work-in-progress tool that will allow you to debug your code much easier. It uses a Textual User interface to organise your debugging space and it will automatically search for solutions with the medium of your choice.
 
 ## Planned features
-- [] Automatically searching for Google/SO solutions
-- [] Powerful console debugging tool
-- [] Module debugging support
-- [] Discord RPC
+- Automatically searching for Google/SO solutions
+- Powerful console debugging tool
+- Module debugging support
+- Discord RPC
 
 ## How to run
 1. Download code
