@@ -1,6 +1,6 @@
 # pydbug
 ## Accurate description
-**PyDBug** is a work-in-progress bomb that will allow you to make your code worse much faster. It uses a Textual User interface (aka a [TUI](https://www.tui.com))) to organise your horrible code and it will automatically search for solutions with the medium of your choice. Just Kidding!
+**PyDBug** is a work-in-progress bomb that will allow you to make your code worse much faster. It uses a Textual User interface (aka a [TUI](https://www.tui.com))) to organise your horrible code and it will automatically search for ~~devices~~solutions with the medium of your choice that you can use to blow up the world.
 
 "NOTE: It will probably never be completed"
   <sub>- aaaaaasdf IRL</sub>
